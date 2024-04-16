@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.senelis {
+  height: 800px;
+  width: 800px;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tevas {
+  height: 600px;
+  width: 600px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.vaikas {
+  height: 300px;
+  width: 300px;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
